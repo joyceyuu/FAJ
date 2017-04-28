@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on FAJ</title>
+    <link>https://wang172479754.github.io/FAJ/tags/</link>
+    <description>Recent content in Tags on FAJ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Apr 2017 18:40:04 +1000</lastBuildDate>
+    
+	<atom:link href="https://wang172479754.github.io/FAJ/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scene</title>
+      <link>https://wang172479754.github.io/FAJ/tags/scene/</link>
+      <pubDate>Fri, 28 Apr 2017 18:40:04 +1000</pubDate>
+      
+      <guid>https://wang172479754.github.io/FAJ/tags/scene/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
